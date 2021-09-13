@@ -11,6 +11,7 @@
 - 🏡 https://soundprooftalk.com/
 - 🚪 https://soundprooftalk.com/how-to-soundproof-a-room-with-blanket/
 - 🚔 https://soundprooftalk.com/how-to-make-your-exhaust-quieter/
+- 🏨 https://soundprooftalk.com/why-should-a-restaurant-have-good-soundproofing/
 <!---
 soundprooftalk/soundprooftalk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
